@@ -69,25 +69,6 @@ The goal is simple: **make existing resources more discoverable, more fairly acc
 
 See `package.json` for the authoritative dependency versions.
 
-## Run Locally
-
-```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_DIRECTORY>
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000).
-
-To check a production build:
-
-```bash
-npm run build
-```
-
-Replace the repository placeholders with your actual Git repository URL and folder name.
-
 ## Hackathon Impact
 
 NEXUS addresses the challenge of underused equipment and spaces by connecting **discovery, eligibility, booking decisions, fair-use principles, handover records, and incident review** in one platform. The approach can be adapted to laboratories, makerspaces, research facilities, computing resources, and shared institutional spaces.
